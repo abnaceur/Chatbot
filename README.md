@@ -14,4 +14,4 @@ npm i && node bin/www
 npm i && npm start
 ```
 
-Now navigate `http://localhost:5000'  - ENJOY
+Now navigate to `http://localhost:5000`  - ENJOY
